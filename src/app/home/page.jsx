@@ -1,12 +1,26 @@
-import Header from '@/components/LandingPage/Header'
-import React from 'react'
+// import Header from '@/components/LandingPage/Header'
+// import React from 'react'
+
+// const HomePage = () => {
+//   return (
+//     <div>
+//       <Header/>
+//     </div>
+//   )
+// }
+
+// export default HomePage
+
+import Header from "../../components/LandingPage/Header";
+import React from "react";
 
 const HomePage = () => {
   return (
     <div>
-      <Header/>
+      <Header />
     </div>
-  )
-}
+  );
+};
 
-export default HomePage
+export default HomePage;
+

@@ -1,12 +1,26 @@
-import AllHotelAndTravel from '@/components/UserLandingPage/UserLandingPageCard/TravelComponentes/SingleTravelComponents/AllHotelAndTravel'
-import React from 'react'
+// import AllHotelAndTravel from '@/components/UserLandingPage/UserLandingPageCard/TravelComponentes/SingleTravelComponents/AllHotelAndTravel'
+// import React from 'react'
+
+// const HotelAndTravelPage = () => {
+//   return (
+//     <div>
+//       <AllHotelAndTravel/>
+//     </div>
+//   )
+// }
+
+// export default HotelAndTravelPage
+
+import AllHotelAndTravel from "../../components/UserLandingPage/UserLandingPageCard/TravelComponentes/SingleTravelComponents/AllHotelAndTravel";
+import React from "react";
 
 const HotelAndTravelPage = () => {
   return (
     <div>
-      <AllHotelAndTravel/>
+      <AllHotelAndTravel />
     </div>
-  )
-}
+  );
+};
 
-export default HotelAndTravelPage
+export default HotelAndTravelPage;
+

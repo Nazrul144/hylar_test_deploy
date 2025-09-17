@@ -1,12 +1,26 @@
-import About from '@/components/LandingPage/About'
-import React from 'react'
+// import About from '@/components/LandingPage/About'
+// import React from 'react'
+
+// const AboutPage = () => {
+//   return (
+//     <div>
+//       <About/>
+//     </div>
+//   )
+// }
+
+// export default AboutPage
+
+import About from "../../components/LandingPage/About";
+import React from "react";
 
 const AboutPage = () => {
   return (
     <div>
-      <About/>
+      <About />
     </div>
-  )
-}
+  );
+};
 
-export default AboutPage
+export default AboutPage;
+

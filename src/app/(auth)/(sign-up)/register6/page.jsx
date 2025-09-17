@@ -1,4 +1,4 @@
-import Register6 from '@/components/authentication/Register6'
+import Register6 from '../../components/authentication/Register6'
 import React from 'react'
 
 const Register6Page = () => {

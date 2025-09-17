@@ -1,4 +1,4 @@
-import Register8 from '@/components/authentication/Register8'
+import Register8 from '../../components/authentication/Register8'
 import React from 'react'
 
 const Register8Page = () => {

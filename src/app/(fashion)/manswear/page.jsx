@@ -1,4 +1,4 @@
-import Manswear from '@/components/UserLandingPage/UserLandingPageCard/Manswear/Manswear'
+import Manswear from '../../components/UserLandingPage/UserLandingPageCard/Manswear/Manswear'
 import React from 'react'
 
 const ManswearPage = () => {

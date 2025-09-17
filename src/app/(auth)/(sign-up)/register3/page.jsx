@@ -1,4 +1,4 @@
-import Register3 from '@/components/authentication/Register3'
+import Register3 from '../../components/authentication/Register3'
 import React from 'react'
 
 const Register3Page = () => {

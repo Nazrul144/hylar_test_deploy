@@ -1,12 +1,25 @@
-import Travel from '@/components/browseCaterories/Travel'
-import React from 'react'
+// import Travel from '@/components/browseCaterories/Travel'
+// import React from 'react'
+
+// const TravelPage = () => {
+//   return (
+//     <div>
+//       <Travel/>
+//     </div>
+//   )
+// }
+
+// export default TravelPage
+
+import Travel from "../../components/browseCaterories/Travel";
+import React from "react";
 
 const TravelPage = () => {
   return (
     <div>
-      <Travel/>
+      <Travel />
     </div>
-  )
-}
+  );
+};
 
-export default TravelPage
+export default TravelPage;
