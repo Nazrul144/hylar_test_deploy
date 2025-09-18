@@ -1,5 +1,5 @@
 'use client'
-import About from "@/components/LandingPage/About";
+import About from "@/components/landingPage/About";
 import EmailSubscription from "@/components/LandingPage/EmailSubscription";
 import Faq from "@/components/LandingPage/Faq";
 import Header from "@/components/LandingPage/Header";
