@@ -1,26 +1,12 @@
-// import AllInsurance from '@/components/UserLandingPage/UserLandingPageCard/FinanceComponenets/SingleComponents/AllInsurance'
-// import React from 'react'
-
-// const InsurancePage = () => {
-//   return (
-//     <div>
-//       <AllInsurance/>
-//     </div>
-//   )
-// }
-
-// export default InsurancePage
-
-import AllInsurance from "../../components/UserLandingPage/UserLandingPageCard/FinanceComponenets/SingleComponents/AllInsurance";
-import React from "react";
+import AllInsurance from '@/components/UserLandingPage/UserLandingPageCard/FinanceComponenets/SingleComponents/AllInsurance'
+import React from 'react'
 
 const InsurancePage = () => {
   return (
     <div>
-      <AllInsurance />
+      <AllInsurance/>
     </div>
-  );
-};
+  )
+}
 
-export default InsurancePage;
-
+export default InsurancePage

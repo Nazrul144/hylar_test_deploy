@@ -1,27 +1,12 @@
-// import VerifyOTP from '@/components/forgetPassword/VerifyOTP'
-// import React from 'react'
-
-// const VerifyOTPPage = () => {
-//   return (
-//     <div>
-//       <VerifyOTP/>
-//     </div>
-//   )
-// }
-
-// export default VerifyOTPPage
-
-
-import VerifyOTP from "../../components/forgetPassword/VerifyOTP";
-import React from "react";
+import VerifyOTP from '@/components/forgetPassword/VerifyOTP'
+import React from 'react'
 
 const VerifyOTPPage = () => {
   return (
     <div>
-      <VerifyOTP />
+      <VerifyOTP/>
     </div>
-  );
-};
+  )
+}
 
-export default VerifyOTPPage;
-
+export default VerifyOTPPage

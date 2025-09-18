@@ -1,26 +1,12 @@
-// import AllBankAccount from '@/components/UserLandingPage/UserLandingPageCard/FinanceComponenets/SingleComponents/AllBankAccount'
-// import React from 'react'
-
-// const BankAccount = () => {
-//   return (
-//     <div>
-//       <AllBankAccount/>
-//     </div>
-//   )
-// }
-
-// export default BankAccount
-
-import AllBankAccount from "../../components/UserLandingPage/UserLandingPageCard/FinanceComponenets/SingleComponents/AllBankAccount";
-import React from "react";
+import AllBankAccount from '@/components/UserLandingPage/UserLandingPageCard/FinanceComponenets/SingleComponents/AllBankAccount'
+import React from 'react'
 
 const BankAccount = () => {
   return (
     <div>
-      <AllBankAccount />
+      <AllBankAccount/>
     </div>
-  );
-};
+  )
+}
 
-export default BankAccount;
-
+export default BankAccount

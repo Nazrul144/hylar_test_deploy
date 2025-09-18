@@ -1,4 +1,4 @@
-import Womenswear from '../../components/UserLandingPage/UserLandingPageCard/Manswear/Womenswear'
+import Womenswear from '@/components/UserLandingPage/UserLandingPageCard/Manswear/Womenswear'
 import React from 'react'
 
 const WomenswearPage = () => {
