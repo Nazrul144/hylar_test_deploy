@@ -1,5 +1,5 @@
-import Register from '@/components/authentication/Register'
-import React from 'react'
+import Register from "@/components/authentication/Register"
+
 
 const RegisterPage = () => {
   return (

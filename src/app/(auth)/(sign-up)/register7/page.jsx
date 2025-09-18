@@ -1,4 +1,5 @@
-import Register7 from '../../components/authentication/Register7'
+
+import Register7 from '@/components/authentication/Register7'
 import React from 'react'
 
 const Register7Page = () => {
